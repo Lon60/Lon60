@@ -4,7 +4,7 @@
 <h3 align="center">A Swiss apprentice who likes programming</h3>
 
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **business@lon60.com or gitlon@proton.me**
 
