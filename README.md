@@ -1,3 +1,6 @@
+```math \ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url(‘https://user-images.githubusercontent.com/30528167/92789817-e4b53d80-f3b3-11ea-96a4-dad3ea09d237.png?raw=true');]{x0000}$}
+```
+
 <div align="center">
   <img height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3UyODJ6Nmg2dnV4dWNiOHZ3bTN1YzNuMHVsMnNmZDQxYTA3bTdqYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wwg1suUiTbCY8H8vIA/giphy.gif"  />
 </div>
@@ -50,6 +53,4 @@
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lon60&theme=vision-friendly-dark&hide_border=true" alt="lon60's GitHub Stats" height="150px"/>
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lon60&theme=vision-friendly-dark&show_icons=true&hide_border=true&layout=compact" alt="lon60's GitHub Stats" height="150px"/>
 </div>
-
-```math \ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url(‘https://user-images.githubusercontent.com/30528167/92789817-e4b53d80-f3b3-11ea-96a4-dad3ea09d237.png?raw=true');]{x0000}$}
 
