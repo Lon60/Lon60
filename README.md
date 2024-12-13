@@ -45,9 +45,5 @@
 <h1 align="center">Hi 👋, I'm Lon60</h1>
 
 ###
-<div align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=lon60&theme=vision-friendly-dark&show_icons=true&hide_border=true&count_private=true" alt="lon60's GitHub Stats" height="150px"/>
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=lon60&theme=vision-friendly-dark&hide_border=true" alt="lon60's GitHub Stats" height="150px"/>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lon60&theme=vision-friendly-dark&show_icons=true&hide_border=true&layout=compact" alt="lon60's GitHub Stats" height="150px"/>
-</div>
 
+<p align="center">My main tech stack is focused on <b>Spring Boot</b> and <b>React</b>.
